@@ -1,0 +1,20 @@
+.dainamikusu {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+}
+
+.dainamikusu h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+    font-size: 10rem;
+    font-weight: bolder;
+}
+
+.dainamikusu h1 .ruby {
+    font-size: 5rem;
+}
